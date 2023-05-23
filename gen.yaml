@@ -1,4 +1,9 @@
 configVersion: 1.0.0
+management:
+  docChecksum: a8e681acedc8975a9c8cc596c44ef897
+  docVersion: 1.0.17
+  speakeasyVersion: 1.37.5
+  generationVersion: 2.32.2
 generation:
   comments:
     disableComments: false
@@ -9,5 +14,6 @@ generation:
   tagNamespacingDisabled: false
   telemetryEnabled: false
 go:
-  version: 0.0.1
+  version: 1.0.0
+  maxMethodParams: 0
   packageName: openapi-example
