@@ -2,6 +2,7 @@ pet.go
 store.go
 user.go
 openapiexample.go
+.gitignore
 go.mod
 go.sum
 pkg/types/bigint.go
